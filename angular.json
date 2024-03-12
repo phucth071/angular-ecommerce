@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "allowCommonJSDependencies": [
+            "allowedCommonJsDependencies": [
               "p-cancelable",
               "tiny-emitter",
               "cross-fetch",
